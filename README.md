@@ -61,11 +61,11 @@ Prediction Models • PyTorch (Basics) • Data Preprocessing • EDA
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basittshaikh&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basitscribe&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basittshaikh&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=basitscribe&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
 </p>
 
 ---
@@ -74,14 +74,11 @@ Prediction Models • PyTorch (Basics) • Data Preprocessing • EDA
 
 <p align="center">
   <a href="mailto:basitshaikh7878@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-ffffff40?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00000080" />
   </a>
   <a href="https://github.com/basitscribe">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-ffffff40?style=for-the-badge&logo=github&logoColor=white&labelColor=00000080" />
   </a>
 </p>
- 
 
-<p align="center">
-  <sub>Clean. Modern. Professional.</sub>
-</p>
+ 
