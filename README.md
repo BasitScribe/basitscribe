@@ -1,16 +1,87 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Basit Shaikh 👋</h1>
 
-<!--
-**BasitScribe/basitscribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./banner.png" alt="banner" style="max-width:100%; border-radius:10px;">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Full-Stack Developer | Backend Engineering | Cloud-Friendly | ML/AI Enthusiast</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I'm a developer who loves building **scalable backends**, **clean frontends**, and exploring how **ML and automation** can improve real systems.  
+My focus is always on:
+
+- Writing clean, reliable code  
+- Building production-ready solutions  
+- Continuous learning and improvement  
+- Understanding system design & architecture  
+
+---
+
+## 💼 Tech Stack
+
+### **Backend**
+`Python` • `FastAPI` • `Node.js` • `Express` • `REST APIs`  
+`PostgreSQL` • `MongoDB`
+
+### **Frontend**
+`React` • `HTML5` • `CSS3` • `JavaScript (ES6+)`
+
+### **Cloud & DevOps**
+`AWS` (EC2, S3, IAM) • `Docker` • `Git` • `GitHub Actions` • `CI/CD Basics`
+
+### **Machine Learning**
+Prediction Models • PyTorch (Basics) • Data Preprocessing • EDA
+
+---
+
+## 📈 What I’m Working On
+
+- Growing as a **backend engineer**
+- Strengthening my **cloud skills**
+- Building ML-powered projects  
+- Improving system design fundamentals  
+
+---
+
+## 🔥 Featured Skills
+
+- Strong understanding of API design  
+- Solid debugging + problem-solving  
+- Fast learner who adapts quickly  
+- Able to work across frontend, backend, and cloud  
+- Clean code mindset
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basittshaikh&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=basittshaikh&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+</p>
+
+---
+
+## 📬 Contact
+
+<p align="center">
+  <a href="mailto:basitshaikh7878@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/basitscribe">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+ 
+
+<p align="center">
+  <sub>Clean. Modern. Professional.</sub>
+</p>
